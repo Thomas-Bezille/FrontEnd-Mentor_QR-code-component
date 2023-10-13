@@ -21,8 +21,7 @@ body {
 
 .container {
   padding: 20px;
-  width: 300px;
-  height: 60%;
+  width: 20em;
   background-color: var(--white);
   border-radius: 20px;
   display: flex;
